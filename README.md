@@ -1,2 +1,2 @@
-# Entornos
-Trabajo sobre GIT de la asignatura Entornos de Desarrollo
+# Diseño de interfaz web
+Trabajo en equipo
